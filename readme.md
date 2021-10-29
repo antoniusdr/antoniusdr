@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Dev with a Business Administration bachelors
 
-- 🌱 I’m currently learning Design and Animation frameworks like Material UI & Bootstrap
+- 🌱 I’m currently learning Angular, Material UI & Bootstrap
 - 🚀 Looking to work in DevOps
 - 🥅 2022/2023 Goals: Getting comfortable with creating mobile apps!
 - ⚡ Fun fact: I love to cook and explore new types of cuisines
